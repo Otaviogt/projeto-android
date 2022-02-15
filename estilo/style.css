@@ -109,13 +109,13 @@ main{
 
 main h1{
     color: var(--cor5);
-  font-family: var(--fonte-padrao);
+ 
     font-weight: normal;
     font-size: 1.8em;
 }
 
 main h2{
-    font-family:var(--fonte-android) ;
+  
     color: var(--cor4);
     font-size: 1.3em;
     font-weight: normal;
